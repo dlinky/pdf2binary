@@ -1,5 +1,9 @@
 # pdf2binary
 
+필요 라이브러리
+pip install pdf2image
+pip install numpy
+
 pdf파일은 .py파일이 있는 디렉토리에 두면 됩니다.
 
 pdf에서 변환한 이미지 : ./images/original/
